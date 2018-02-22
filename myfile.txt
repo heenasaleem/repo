@@ -1,7 +1,7 @@
 this is first line...
 <<<<<<< HEAD
 
-this is the second li
+changed by heena
 third line
 fourth line.
 fifth line
