@@ -1,0 +1,15 @@
+this is first line...
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+changed by heena
+=======
+my new line is here....
+>>>>>>> 80943ab04da8e33f65247f28a001c5b1254873e5
+third line
+fourth line.
+fifth line
+
+=======
+added second line
+>>>>>>> d98e69b51e5aa68a6d4b9b8fe3043f7e45cc782a
