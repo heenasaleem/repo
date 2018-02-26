@@ -3,20 +3,8 @@
 
 
 
-=======
-=======
->>>>>>> 80943ab04da8e33f65247f28a001c5b1254873e5
-added second line
-changed by heena
->>>>>>> d98e69b51e5aa68a6d4b9b8fe3043f7e45cc782a
-<<<<<<< HEAD
-sixth line
-=======
-my changes
->>>>>>> 7fa75760adaa506cc7e883d913df60a3a8f0e1cb
+
 fourth line.
-<<<<<<< HEAD
-<<<<<<< HEAD
 hello this is second file
 hello this is second file.
 my new line is here....
